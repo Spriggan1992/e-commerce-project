@@ -11,7 +11,8 @@ class Directory extends Component {
             sections: [
                 {
                     title: 'gorros',
-                    imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+                    // imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+                    imageUrl: '/images/hats.png',
                     size: 'normal',
                     id: 1,
                     linkUrl: 'hats'
